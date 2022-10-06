@@ -14,7 +14,7 @@ HTML | CSS | Javascript | ReactJs | Typescript | NodeJs | PostgreSQL | MongoDB
 
 <br><br>
 
-## **TECK STACK**  
+## **TECH STACK**  
 
 **FRONT-END**
 
